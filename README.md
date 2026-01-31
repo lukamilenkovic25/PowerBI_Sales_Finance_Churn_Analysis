@@ -58,15 +58,12 @@ Below are the data model structures used across all three projects.
 Each model follows a **star schema**, with a central fact table connected to supporting dimension tables, enabling efficient filtering, accurate relationship propagation, and scalable DAX calculations.
 
 ### Sales Dashboard – Data Model
-*(Replace the path below with the real uploaded image path)*  
 Project_1_Sales_Dashboard/Sales_Data_Model.png
 
-### Finance Dashboard – Data Model
-*(Replace the path below with the real uploaded image path)*  
+### Finance Dashboard – Data Model 
 Project_2_Finance_Analysis/Finance_Data_Model.png
 
-### Customer Churn Dashboard – Data Model
-*(Replace the path below with the real uploaded image path)*  
+### Customer Churn Dashboard – Data Model 
 Project_3_Customer_Churn_Analysis/Churn_Data_Model.png
 
 ---
