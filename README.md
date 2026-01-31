@@ -26,17 +26,17 @@ I have strong experience in Power BI, Power Query, data transformation, and anal
 ### 1. Sales Dashboard (2023–2025)
 Focus: Revenue trends, product performance, regional comparison  
 Key techniques: Time intelligence (YTD, YoY, MoM), KPI metrics, product ranking  
-Project folder: [link_to_sales_project]  
+Project folder: Project_1_Sales_Dashboard/Project1_Sales_Dashboard.pbix 
 
 ### 2. Finance & Cost Control Dashboard
 Focus: Budget vs Actual, variance analysis, cost optimization  
 Key techniques: Financial KPIs, variance %, Rolling 12M, departmental insights  
-Project folder: [link_to_finance_project]  
+Project folder: Project_2_Finance_Analysis/Project2_Finance_Analysis_Dashboard.pbix
 
 ### 3. Customer Churn Analysis
 Focus: Churn rate drivers, customer segmentation, engagement behavior  
 Key techniques: Churn metrics, segmentation logic, behavioral insights  
-Project folder: [link_to_churn_project]  
+Project folder: Project_3_Customer_Churn_Analysis/Project3_Customer_Churn_Analysis.pbix
 
 ---
 
@@ -64,8 +64,8 @@ This structure ensures clarity, reproducibility, and easy evaluation for hiring 
 ---
 
 ## Tech Stack
-- Power BI Desktop (latest version)  
-- Power Query (ETL)  
+- Power BI Desktop
+- Power Query
 - DAX  
 - SQL (intermediate)  
 - Excel/CSV data sources  
