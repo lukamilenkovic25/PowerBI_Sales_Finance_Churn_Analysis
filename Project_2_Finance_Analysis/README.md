@@ -23,7 +23,7 @@ This Power BI dashboard provides a financial overview with a focus on budget vs 
 - Custom variance measures (absolute and percentage)
 
 ### Data Model
-./Finance_Data_Model.png
+./Image/Finance_Data_Model.png
 
 ## DAX Highlights
 - Variance calculations (Budget – Actual)
