@@ -24,7 +24,7 @@ The report focuses on revenue trends, product performance, and regional insights
 - Time intelligence enabled through a dedicated Date Table
 
 ### Data Model
-./Image/Sales_Data_Model.png
+Project_1_Sales_Dashboard/Image/Sales_Data_Model.png
 
 ## DAX Highlights
 - YTD, YoY and MoM performance indicators
