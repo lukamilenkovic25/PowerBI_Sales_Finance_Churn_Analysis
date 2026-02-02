@@ -23,7 +23,7 @@ This project analyzes customer churn with the goal of identifying drivers of chu
 - Segmentation logic implemented in DAX
 
 ### Data Model
-./Image/Customer_Churn_Data_Model.png
+Project_3_Customer_Churn_Analysis/Image/Customer_Churn_Data_Model.png
 
 ## DAX Highlights
 - Churn rate calculation
